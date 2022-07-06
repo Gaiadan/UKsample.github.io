@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="zxx">
+<head>
+</head>
+<body><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"></body>
+</html>
+<title>Free eBay listing template designed by dewiso.com</title>
+<link href="https://dewiso.com/css/bootstrap.min.css" rel="stylesheet" />
+<style type="text/css">.element{background-image:url("https://dewiso.com/images/f0f0f0_background.png");background-size:cover}
+</style>
+<div class="element" style="border-left: 1px solid #CACFD6; border-right: 1px solid #CACFD6; border-top: 1px solid #CBD4C2; color: #273C2C; border-bottom: 1px solid #CACFD6; line-height: 45px">
+<div class="container" style="padding: 40px 0 40px 0">
+<div class="col-12 col-md-12">
+<h1 style="text-align: center"><span style="font-size:28px;"><font face="Arial">Aluminium wire, Craft wire, Florist wire, J</font><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial"><font rwr="1"><font style="font-family:Arial">ewellery,</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><font face="Arial"> Hobby wire - 0.8mm - 10m roll</font></span></h1>
+
+<hr align="center" style="background: #273C2C; height: 1px; width: 10%" /></div>
+</div>
+</div>
+
+<div style="border-left: 1px solid #CACFD6; border-right: 1px solid #CACFD6; line-height: 25px">
+<div class="container" style="padding-bottom: 20px; padding-top: 50px">
+<div class="row">
+<div class="col-12 col-md-6" style="padding-bottom: 40px"><font face="Arial" style="color: #273C2C"><img alt="Image" class="mx-auto d-block img-fluid" height="328" src="https://i.ebayimg.com/images/g/4i4AAOSwS0BiemME/s-l1600.jpg" title="Image" width="328" /></font></div>
+
+<div class="col-12 col-md-6">
+<div typeof="Product" vocab="https://schema.org/">
+<p>&nbsp;</p>
+
+<ul>
+	<li><span style="font-size:18px;"><span style="font-family:Arial"><span style="background-color:#ffffff"><font style="font-family:Arial"><span style="color:#333333"><span style="font-variant-numeric:normal"><span style="font-variant-east-asian:normal"><span style="vertical-align:baseline"><span style="white-space:pre-wrap">Aluminium Wire Bendable Metal Craft Wire, Floral Wire, DIY, Arts, Jewellery, Craft Projects/Model Making.</span></span></span></span></span></font></span></span></span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li><span style="font-size:18px;"><font face="Arial" style="color: #273C2C"><span property="description">This Listing is for a 10 meter roll.</span></font></span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li><font rwr="1"><font style="font-family:Arial"><font size="4"><font style="font-family:Arial; font-size:14pt"><font size="5"><span style="font-size:14pt">Flexible&nbsp;aluminium which is easy to bend, shape and cut. Colour Silver.</span></font></font></font></font></font></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="element" style="border-left: 1px solid #CACFD6; border-right: 1px solid #CACFD6; border-top: 1px solid #CACFD6; color: #273C2C; line-height: 25px">
+<div class="container" style="padding: 40px 0 40px 0">
+<div class="col-12 col-md-12">
+<h2 style="line-height: 45px"><span style="color:#c0392b;"><font face="Arial" style="color: #273C2C">Shipping</font></span></h2>
+
+<hr align="left" style="background: #273C2C; height: 1px; width: 10%" />
+<div style="width:85%; padding:5px">
+<div style="width:727.852px; padding:5px"><span style="color:#c0392b;"><span style="font-size:14pt"><span style="font-family:Arial"><span style="font-size:14pt">Same day dispatch if ordered before 3pm Mon to Fri.&nbsp;</span></span></span></span></div>
+
+<div style="width:727.852px; padding:5px"><span style="color:#c0392b;"><span style="font-size:14pt"><span style="font-family:Arial"><span style="font-size:14pt">Orders after 3pm will be posted first thing next day.</span></span></span></span></div>
+
+<div style="width:727.852px; padding:5px">&nbsp;</div>
+
+<div style="width:727.852px; padding:5px"><span style="color:#c0392b;"><span style="font-size:20px;"><strong>Shipping to UK Mainland only</strong></span></span></div>
+</div>
+</div>
+</div>
+</div>
+
+<div style="border-left: 1px solid #CACFD6; border-right: 1px solid #CACFD6; border-bottom: 1px solid #CACFD6; border-top: 1px solid #CACFD6; color: #273C2C; line-height: 25px">
+<div class="col-12 col-md-12 element" style="border-top: 1px solid #CACFD6; color: #273C2C; line-height: 25px">
+<div class="container" style="padding: 20px 0 10px 0; font-size: 80%; text-align: center">
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
